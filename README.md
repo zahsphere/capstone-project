@@ -1,5 +1,5 @@
 # capstone-project
-# Capstone Project: Customer Segmentation with KMeans & AI Support
+# Customer Segmentation with KMeans & AI Support
 
 ## Project Overview
 This project aims to segment mobile phone customers based on their specifications using **KMeans clustering**.  
